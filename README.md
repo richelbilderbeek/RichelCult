@@ -2,4 +2,5 @@
 
 Cult made by Richel Bilderbeek
 
- * [Pi Approximation Day 2017](https://www.sikkom.nl/video-vreemde-227-boodschap-noorderplantsoen)
+ * [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day)
+ * [Taj Mahal card](taj_mahal/README.md)
